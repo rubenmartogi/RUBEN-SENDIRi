@@ -45,7 +45,7 @@
                             </button>
                             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                 <a class="dropdown-item" href="{{url('id')}}">Indonesia</a>
-                                <a class="dropdown-item" href="{{url('en')}}">English</a>
+                                <a class="dropdown-item" href="{{url('en')}}">Inggris</a>
                             </div>
                         </div>
                     </li>
